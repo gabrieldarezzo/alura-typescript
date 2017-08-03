@@ -1,0 +1,16 @@
+{
+  "name": "alura-typescript-parte1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile" : "tsc",
+    "start" : "tsc -w"
+  },
+  "author": "Gabriel Darezzo",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
