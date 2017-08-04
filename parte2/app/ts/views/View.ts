@@ -1,16 +1,25 @@
-namespace Views {
-	export abstract class View<T> {
+import { logarTempoDeExecucao } from '../helpers/decorators/index';
 
-	    protected _elemento : JQuery;
+export abstract class View<T> {
 
-	    constructor(seletor: string) {
-	        this._elemento = $(seletor);        
-	    }
+    protected _elemento : JQuery;
+    private _escapar : boolean;
 
-	    update(model: T) {
-	    	this._elemento.html(this.template(model));
-	    }
+    constructor(seletor: string, escapar: boolean = false) {
+        this._elemento = $(seletor);
+        this._escapar = escapar; 
+    }
 
-	    abstract template(model: T): string;
-	}
+    @logarTempoDeExecucao()
+    update(model: T) {
+    	let template = this.template(model);
+
+    	if(this._escapar) {    		
+    		template = template.replace(/<script>[\s\S]*?<\/script>/, '');
+    	}
+
+    	this._elemento.html(template);
+    }
+
+    abstract template(model: T): string;
 }

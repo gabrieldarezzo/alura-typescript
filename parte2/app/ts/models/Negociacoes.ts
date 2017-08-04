@@ -1,18 +1,16 @@
-class Negociacoes {
+import { Negociacao } from './Negociacao';
 
-    //private _negociacoes : Array<Negociacao> = [];
-    private _negociacoes : Negociacao[] = [];
-
-
+export class Negociacoes {
+    
+    private negociacoes : Negociacao[] = [];
 
     adiciona(negociacao : Negociacao){
-        this._negociacoes.push(negociacao);
+        this.negociacoes.push(negociacao);
     }
-
 
     paraArray() : Negociacao[] {
         //concat é para evitar referencia direta do array e manipulando dados privates
-        return [].concat(this._negociacoes);
+        return ([] as Negociacao[]).concat(this.negociacoes);
     }
 
 }
