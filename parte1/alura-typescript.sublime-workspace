@@ -23,32 +23,51 @@
 			"file": "app/ts/views/View.ts",
 			"settings":
 			{
-				"buffer_size": 299,
+				"buffer_size": 268,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/lib/system.js",
+			"file": "tsconfig.json",
 			"settings":
 			{
-				"buffer_size": 62087,
+				"buffer_size": 228,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/lib/jquery.min.js",
+			"file": "app/ts/controllers/NegociacaoController.ts",
 			"settings":
 			{
-				"buffer_size": 86659,
+				"buffer_size": 1026,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/ts/views/MensagemView.ts",
+			"file": "alura-typescript.sublime-project",
 			"settings":
 			{
-				"buffer_size": 151,
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/ts/app.ts",
+			"settings":
+			{
+				"buffer_size": 108,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1756,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -151,10 +170,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/alura-typescript/parte1"
+		"/C/wamp64/www/alura-typescript/parte1",
+		"/C/wamp64/www/alura-typescript/parte1/app"
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/alura-typescript/parte1/app/js/app.js",
+		"/C/wamp64/www/alura-typescript/parte1/app/ts/app.js",
+		"/C/wamp64/www/alura-typescript/parte1/app/ts/views/MensagemView.ts",
+		"/C/wamp64/www/alura-typescript/parte1/app/lib/system.js",
 		"/C/wamp64/www/alura-typescript/parte1/alura-typescript.sublime-project",
 		"/C/wamp64/www/alura-typescript/parte1/alura-typescript.sublime-workspace",
 		"/C/wamp64/www/alura-typescript/parte1/node_modules/@types/jquery/index.d.ts",
@@ -253,7 +277,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -271,6 +295,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"value",
+			"<JQuery>document.querySelector",
+			"HTMLInputElement",
 			"private",
 			"ColorizzarTests",
 			"Tests",
@@ -397,7 +424,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -406,15 +433,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 299,
+						"buffer_size": 268,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								246,
-								246
+								148,
+								171
 							]
 						],
 						"settings":
@@ -426,29 +453,60 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/lib/system.js",
+					"file": "tsconfig.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 62087,
+						"buffer_size": 228,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								62087,
-								62087
+								1,
+								1
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/ts/controllers/NegociacaoController.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1026,
+								1026
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -458,12 +516,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "app/lib/jquery.min.js",
-					"semi_transient": true,
+					"buffer": 3,
+					"file": "alura-typescript.sublime-project",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 86659,
+						"buffer_size": 132,
 						"regions":
 						{
 						},
@@ -476,30 +534,30 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "app/ts/views/MensagemView.ts",
+					"buffer": 4,
+					"file": "app/ts/app.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 151,
+						"buffer_size": 108,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								43,
-								43
+								48,
+								48
 							]
 						],
 						"settings":
@@ -515,7 +573,43 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1629,
+								1629
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "app/ts/views/NegociacoesView.ts",
 					"semi_transient": false,
 					"settings":
@@ -548,7 +642,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
@@ -556,7 +650,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 43.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -601,7 +695,7 @@
 	"project": "alura-typescript.sublime-project",
 	"replace":
 	{
-		"height": 66.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -610,6 +704,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"ts",
+				"tsconfig.json"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"app",
+				"app\\ts\\app.ts"
+			],
+			[
+				"negocacaoco",
+				"app\\ts\\controllers\\NegociacaoController.ts"
+			],
 			[
 				"view",
 				"ts\\views\\View.ts"
