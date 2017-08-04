@@ -1,0 +1,859 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upl",
+				"uploads"
+			],
+			[
+				"bol",
+				"boolean"
+			],
+			[
+				"is_",
+				"is_array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/ts/views/View.ts",
+			"settings":
+			{
+				"buffer_size": 299,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/lib/system.js",
+			"settings":
+			{
+				"buffer_size": 62087,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/lib/jquery.min.js",
+			"settings":
+			{
+				"buffer_size": 86659,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/ts/views/MensagemView.ts",
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/ts/views/NegociacoesView.ts",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ru",
+		"selected_items":
+		[
+			[
+				"ru",
+				"PHPUnit: Run"
+			],
+			[
+				"run",
+				"PHPUnit: Run"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"r",
+				"PHPUnit: Run"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"show",
+				"Git: Show Commit By Hash"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/alura-typescript/parte1"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/alura-typescript/parte1/alura-typescript.sublime-project",
+		"/C/wamp64/www/alura-typescript/parte1/alura-typescript.sublime-workspace",
+		"/C/wamp64/www/alura-typescript/parte1/node_modules/@types/jquery/index.d.ts",
+		"/C/wamp64/www/alura-typescript/parte1/package.json",
+		"/C/wamp64/www/colorizzar/tests/ColorizzarWebServiceTests.php",
+		"/C/wamp64/www/colorizzar/tests/ColorizzarTests.php",
+		"/C/wamp64/www/colorizzar/vendor/composer/autoload_real.php",
+		"/C/wamp64/www/colorizzar/vendor/autoload.php",
+		"/C/wamp64/www/colorizzar/composer.json",
+		"/C/wamp64/www/colorizzar/phpunit.xml.dist",
+		"/C/wamp64/www/colorizzar/tests/CasterColorsTests.php",
+		"/C/wamp64/www/colorizzar/tests/ChangeColorTests.php",
+		"/C/wamp64/www/colorizzar/tests/ColorsTests.php",
+		"/C/wamp64/www/colorizzar/tests/UploadFileTests.php",
+		"/C/wamp64/www/colorizzar/tests/---",
+		"/C/wamp64/www/colorizzar/tests/ColorizzarTests",
+		"/C/wamp64/www/colorizzar/vendor/composer/autoload_psr4.php",
+		"/C/wamp64/www/colorizzar/tests/Colorizzar/CasterColorsTests.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/TorchRed.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/ChangeColor.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/UploadFile.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/ColorizzarWebService.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/HtmlColor.php",
+		"/C/wamp64/www/colorizzar/README.md",
+		"/C/wamp64/www/colorizzar/composer.lock",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Colors.php",
+		"/C/wamp64/www/colorizzar/composer.dev",
+		"/C/wamp64/www/colorizzar/.travis.yml",
+		"/C/wamp64/www/colorizzar/tests/ColorTests.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/Brown.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/GreenYellow.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/Blue.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/Yellow.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/BananaMania.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/RedViolet.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Color/Red.php",
+		"/C/wamp64/www/laravel_alura/public/.htaccess",
+		"/C/wamp64/www/colorizzar/public/.htaccess",
+		"/C/wamp64/www/colorizzar/public/index.php",
+		"/C/wamp64/www/phpunit/class/Leilao.php",
+		"/C/wamp64/www/phpunit/class/Avaliador.php",
+		"/C/wamp64/www/phpunit/tests/AvaliadorTest.php",
+		"/C/Users/Gabriel Darezzo/AppData/Roaming/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
+		"/C/Users/Gabriel Darezzo/AppData/Roaming/Sublime Text 3/Packages/User/SimplePHPUnit.sublime-settings",
+		"/C/wamp64/www/laravel_alura/composer.json",
+		"/C/wamp64/www/colorizzar/index.php",
+		"/C/wamp64/www/leroy_test/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/leroy_test/app/Http/Controllers/ProductController.php",
+		"/C/wamp64/www/leroy_test/app/Product.php",
+		"/C/wamp64/www/phpunit/README.MD",
+		"/C/wamp64/www/zend2_estudos/README.md",
+		"/C/wamp64/www/zend2_estudos/_README.md",
+		"/C/wamp64/www/colorizzar/.gitignore",
+		"/C/wamp64/www/phpunit/phpunit.xml",
+		"/C/wamp64/www/colorizzar/tests/.gitignore",
+		"/C/wamp64/www/colorizzar/tests/output/.gitkeep",
+		"/C/wamp64/www/colorizzar/carro.php",
+		"/C/wamp64/www/colorizzar/cores.php",
+		"/C/Users/Gabriel Darezzo/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/Gabriel Darezzo/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/wamp64/www/colorizzar/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+		"/C/wamp64/www/colorizzar/phpunit.xml",
+		"/C/wamp64/www/colorizzar/tests/bootstrap.php",
+		"/C/wamp64/www/colorizzar/src/Colorizzar/Colorizzar.php",
+		"/C/wamp64/www/colorizzar/_dump/composer.json",
+		"/C/wamp64/www/voxpmo/config/database.php",
+		"/C/wamp64/www/voxpmo/_dump/todo.txt",
+		"/C/Users/Gabriel Darezzo/Downloads/exemplo_carga (1).csv",
+		"/C/wamp64/www/voxpmo/app/Local.php",
+		"/C/wamp64/www/voxpmo/app/Http/Controllers/LocalController.php",
+		"/C/wamp64/www/voxpmo/routes/web.php",
+		"/C/wamp64/www/voxpmo/resources/views/local/detail.blade.php",
+		"/C/wamp64/www/voxpmo/resources/views/local/meuMapa.blade.php",
+		"/C/wamp64/www/voxpmo/resources/views/local/locais.blade.php",
+		"/C/wamp64/www/voxpmo/.env",
+		"/C/wamp64/www/voxpmo/app/LocationXlsx.php",
+		"/C/wamp64/www/voxpmo/resources/views/layout.blade.php",
+		"/C/wamp64/www/voxpmo/resources/views/local/editar.blade.php",
+		"/C/wamp64/www/voxpmo/vendor/laravel/framework/src/Illuminate/Routing/MiddlewareNameResolver.php",
+		"/C/wamp64/www/voxpmo/app/Http/Middleware/CheckLogin.php",
+		"/C/wamp64/www/voxpmo/public/css/app.css",
+		"/C/wamp64/www/voxpmo/resources/views/pin/alerts.blade.php",
+		"/C/wamp64/www/voxpmo/app/Http/Controllers/PinController.php",
+		"/C/wamp64/www/voxpmo/app/Http/Controllers/LoginController.php",
+		"/C/wamp64/www/voxpmo/app/User.php",
+		"/C/wamp64/www/voxpmo/app/Pin.php",
+		"/C/wamp64/www/voxpmo/readme.md",
+		"/C/wamp64/www/server/index.php",
+		"/C/wamp64/www/server/.htaccess",
+		"/C/wamp64/www/server/server.php",
+		"/C/wamp64/www/laravel_alura/config/database.php",
+		"/C/wamp64/www/laravel_alura/config/app.php",
+		"/C/wamp64/www/laravel_alura/_dump/dump.sql",
+		"/C/wamp64/www/voxpmo/app/Providers/AppServiceProvider.php",
+		"/C/Users/Gabriel Darezzo/Downloads/dump.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\wamp64\\www\\colorizzar\\src\\Colorizzar\\Color",
+			"C:\\wamp64\\www\\colorizzar\\src",
+			"C:\\wamp64\\www\\voxpmo",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"private",
+			"ColorizzarTests",
+			"Tests",
+			"ColorizzarTests",
+			"private",
+			"setFullPathFile",
+			"getCustomNameFile",
+			"getUploadPath",
+			"$UploadPath",
+			"UploadPath",
+			"testCreateFileWithCustomFolder",
+			"UploadPath",
+			"testCreateFileWithCustomFolder",
+			"Exception",
+			"ff1f28",
+			"fileLocation",
+			"defaultRedRGB",
+			"FF1F28",
+			"testGetAllColors",
+			"coun",
+			"FF1F28",
+			"getHex",
+			"getFullPathFile",
+			"fullPath",
+			"fullPathFile",
+			"optional",
+			"uploadFile",
+			"UploadFile",
+			"uploadFile",
+			"lumen",
+			"$UploadPath",
+			"UploadPath",
+			"static",
+			"uploadsDir",
+			"stat",
+			"^",
+			"getColorByName",
+			"propoe",
+			"new ",
+			"finalResult",
+			"resultColor",
+			"colorizeToAllColors",
+			"ColorizeByNameColor",
+			"setFileOut",
+			"created",
+			"ColorizeByNameColor",
+			"$this->fileLocation",
+			"this->fileLocation",
+			"this->",
+			"private ",
+			"vendor",
+			"from",
+			"die('a');",
+			"targetGreen",
+			"targetRed",
+			"from",
+			"defaultBlue",
+			"defaultGreen",
+			"defaultRed",
+			"with products",
+			"Array",
+			"private ",
+			"private",
+			"inputFilePathIn",
+			"filePathOut",
+			"filePath",
+			"vendo",
+			"vendo]",
+			"vendo",
+			"viletinha",
+			"colorizeByNameColor",
+			"fileOut",
+			"getColorByName",
+			"dirLocationOut",
+			"fileOut",
+			"color",
+			"colors",
+			"Colorizzar",
+			"map",
+			"setMap",
+			"setMap ",
+			"import",
+			"customer_name",
+			";",
+			"-.75rem; */",
+			"legend",
+			"modal",
+			"MODAL",
+			"ready",
+			"modal",
+			".modal",
+			"materia",
+			"modal1",
+			"excel_cep",
+			"console.l",
+			"console",
+			"checkUser",
+			"getValidLocalFromUser",
+			"map-vox",
+			"google-map",
+			"excel_cep",
+			"vox_id",
+			"products_statistics",
+			"Correção",
+			"Main Map",
+			"Main",
+			"meu_mapa",
+			"meuMapa",
+			"APP_ENV=local"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/ts/views/View.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/lib/system.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62087,
+								62087
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/lib/jquery.min.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 86659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/ts/views/MensagemView.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/ts/views/NegociacoesView.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 265.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alura-typescript.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view",
+				"ts\\views\\View.ts"
+			],
+			[
+				"casterc",
+				"tests\\CasterColorsTests.php"
+			],
+			[
+				"colorizzartests",
+				"tests\\ColorizzarTests.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"auto",
+				"vendor\\autoload.php"
+			],
+			[
+				"autoload_psr4.php",
+				"vendor\\composer\\autoload_psr4.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"phpunit.x",
+				"phpunit.xml.dist"
+			],
+			[
+				"colori",
+				"tests\\ColorizzarTests.php"
+			],
+			[
+				"travi",
+				".travis.yml"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"composer",
+				"composer.dev"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"changecolo",
+				"src\\Colorizzar\\ChangeColor.php"
+			],
+			[
+				"olorizzarwebservicetests.php",
+				"tests\\ColorizzarWebServiceTests.php"
+			],
+			[
+				"torch",
+				"src\\Colorizzar\\Color\\TorchRed.php"
+			],
+			[
+				"torc",
+				"src\\Colorizzar\\Color\\TorchRed.php"
+			],
+			[
+				"changecolr",
+				"tests\\ChangeColorTests.php"
+			],
+			[
+				"red",
+				"src\\Colorizzar\\Color\\Red.php"
+			],
+			[
+				"yello",
+				"src\\Colorizzar\\Color\\Yellow.php"
+			],
+			[
+				"html",
+				"src\\Colorizzar\\Color\\HtmlColor.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"blue",
+				"src\\Colorizzar\\Color\\Blue.php"
+			],
+			[
+				"compoe",
+				"composer.json"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"change",
+				"tests\\ChangeColorTests.php"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"colors",
+				"src\\Colorizzar\\Colors.php"
+			],
+			[
+				"changecol",
+				"tests\\ChangeColorTests.php"
+			],
+			[
+				"changeco",
+				"src\\Colorizzar\\ChangeColor.php"
+			],
+			[
+				"comp",
+				"_dump\\composer.json"
+			],
+			[
+				"todo",
+				"_dump\\todo.txt"
+			],
+			[
+				"databa",
+				"config\\database.php"
+			],
+			[
+				"locais",
+				"resources\\views\\local\\locais.blade.php"
+			],
+			[
+				"meum",
+				"resources\\views\\local\\meuMapa.blade.php"
+			],
+			[
+				"detail",
+				"resources\\views\\local\\detail.blade.php"
+			],
+			[
+				"to",
+				"_dump\\todo.txt"
+			],
+			[
+				"meumap",
+				"resources\\views\\local\\meuMapa.blade.php"
+			],
+			[
+				"midd",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\MiddlewareNameResolver.php"
+			],
+			[
+				"layo",
+				"resources\\views\\layout.blade.php"
+			],
+			[
+				"datab",
+				"config\\database.php"
+			],
+			[
+				".ev",
+				".env"
+			],
+			[
+				"",
+				"resources\\views\\local\\editar.blade.php"
+			],
+			[
+				"layou",
+				"resources\\views\\layout.blade.php"
+			],
+			[
+				"meumapa",
+				"resources\\views\\local\\meuMapa.blade.php"
+			],
+			[
+				"local/ed",
+				"resources\\views\\local\\editar.blade.php"
+			],
+			[
+				"pin/alert",
+				"resources\\views\\pin\\alerts.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"localcon",
+				"app\\Http\\Controllers\\LocalController.php"
+			],
+			[
+				"database",
+				"config\\database.php"
+			],
+			[
+				"servicepro",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"databas",
+				"config\\database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
