@@ -1,15 +1,13 @@
 # Estudos da Alura sobre TypeScript 
 
 
-Links Demo:
-
+## Links Demo:  
 
 Parte 1:
+https://gabrieldarezzo.github.io/alura-typescript/parte1/app
 
-Parte 3:
-
-Parte 3:
-
+Parte 2:
+https://gabrieldarezzo.github.io/alura-typescript/parte2/app
 
 
 Obs:
